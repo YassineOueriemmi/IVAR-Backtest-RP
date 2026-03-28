@@ -49,10 +49,5 @@ Les fichiers suivants sont disponibles sur Google Drive :
 
 **Lien Google Drive :** [[LIEN ICI](https://drive.google.com/drive/folders/112GC4Of5uZh8ma5eI_xhQlv1tqs6JTMf?usp=drive_link)]
 
----
 
-## Installation
-```bash
-pip install numpy pandas matplotlib scipy statsmodels ipykernel notebook
-```
 
