@@ -49,5 +49,10 @@ Les fichiers suivants sont disponibles sur Google Drive :
 
 **Lien Google Drive :** [[LIEN ICI](https://drive.google.com/drive/folders/112GC4Of5uZh8ma5eI_xhQlv1tqs6JTMf?usp=drive_link)]
 
+---
+
+## References
+
+📄 See [`Références.md`](Références.md) for the complete list of academic references used in this project.
 
 
