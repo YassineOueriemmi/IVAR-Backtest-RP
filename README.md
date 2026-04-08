@@ -53,6 +53,7 @@ Les fichiers suivants sont disponibles sur Google Drive :
 
 ## References
 
-📄 See `Références.md` for the complete list of academic references used in this project.
+📄 Voir `Références.md` pour la liste complète des références académiques utilisées dans ce projet.
+
 
 
